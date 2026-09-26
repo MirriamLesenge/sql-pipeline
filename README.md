@@ -1,5 +1,7 @@
 📊 Data Warehouse Project – Medallion Architecture
+
 🎯 Objective
+
 Transform a flat CSV file of Grade 10 to 12 student marks into a multi-layered data warehouse pipeline using the Medallion Architecture (Bronze → Silver → Gold).
 This ensures raw data preservation, structured cleaning, and reporting-ready aggregation.
 
